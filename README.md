@@ -119,8 +119,3 @@ print(f'Təxmini bazar qiyməti: {predicted_price[0]:,.0f} AZN')
 ## 🛠️ İstifadə olunan texnologiyalar
 
 Python · pandas · NumPy · scikit-learn · matplotlib · joblib · scipy
-
-## 📄 Lisenziya
-
-Dataset istifadəsi Kaggle səhifəsindəki lisenziya şərtlərinə tabedir. Layihə
-kodu üçün bax: `LICENSE` (əlavə etmək istəyirsinizsə, MIT tövsiyə olunur).
